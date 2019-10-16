@@ -34,14 +34,14 @@ export class HomeComponent implements OnInit {
       nick: 'Maria',
       age: 28,
       email: 'aoe@aoe.aoe',
-      friend: true,
+      friend: false,
       uid: 1
     }
     let usuario5: User = {
       nick: 'Pablo',
       age: 28,
       email: 'aoe@aoe.aoe',
-      friend: true,
+      friend: false,
       uid: 1
     }
 
